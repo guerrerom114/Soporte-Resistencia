@@ -1,6 +1,6 @@
-# Soporte-Resistencia
-## Analisis tecnico basico
-1. [General Info](#general-info)
+# Soporte-Resistenciaz
+## Analisis tecnico basico-
+1. [Que es un soporte?](#Que_es_un_soporte?)
 2. [Technologies](#technologies)
 3. [Installation](#installation)
 4. [Collaboration](#collaboration)
